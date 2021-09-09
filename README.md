@@ -1,0 +1,1 @@
+Chuyển nội dung tương ứng với tabs
